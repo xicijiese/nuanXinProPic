@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-05-12T18:31:08.797Z",
-  "count": 493,
+  "lastUpdated": "2026-05-13T19:22:20.558Z",
+  "count": 494,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -13584,6 +13584,31 @@
       "ai": {
         "keywords": [
           "身着刺绣华服的古典美人立于暖阳中"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/人像/国风/白色国风美人侧颜.png": {
+      "category": "人像",
+      "subcategory": "国风",
+      "filename": "白色国风美人侧颜.png",
+      "createdAt": "2026-05-13T19:22:15.000Z",
+      "cdnTag": "v1.0.70",
+      "size": 9232655,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "keywords": [
+          "白色国风美人侧颜"
         ],
         "description": "",
         "displayTitle": "",
