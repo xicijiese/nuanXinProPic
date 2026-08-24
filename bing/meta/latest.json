@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-08-23T17:12:42.057Z",
+  "generatedAt": "2026-08-24T17:23:30.832Z",
   "total": 7,
   "items": [
+    {
+      "date": "2026-08-25",
+      "title": "守护美国瑰宝",
+      "copyright": "红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E7%BA%A2%E6%9D%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%B8%8E%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_RedwoodPark%22&FORM=HPQUIZ",
+      "hsh": "5695a0157a92fd7388c87fc97da7d3e1",
+      "urlbase": "/th?id=OHR.RedwoodPark_ZH-CN9513051062"
+    },
     {
       "date": "2026-08-24",
       "title": "跨越历史",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
       "hsh": "6292d45f05dc327c49558b4acd875f87",
       "urlbase": "/th?id=OHR.Palmanova_ZH-CN0378401592"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "珊瑚礁上的黄金地段",
-      "copyright": "海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)",
-      "copyrightlink": "https://www.bing.com/search?q=%E7%9C%BC%E6%96%91%E5%8F%8C%E9%94%AF%E9%B1%BC&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
-      "hsh": "6cc04d34456d5ae48f6f3939ad45af3c",
-      "urlbase": "/th?id=OHR.CabilaoClowns_ZH-CN0147033898"
     }
   ]
 }
